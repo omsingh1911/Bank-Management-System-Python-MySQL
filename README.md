@@ -4,7 +4,7 @@ Written in Python (front end) &amp; MySQL (back end).
 ## Software Requirements
 Python and MySQL (with mysql-connector)
 
-> Installing mysql-connector
+> How to install "mysql-connector" ? 
 
 Open command prompt and type command `pip install mysql-connector`
 

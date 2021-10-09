@@ -9,8 +9,7 @@ Python and MySQL (with mysql-connector)
 Open command prompt and type command `pip install mysql-connector`
 
 ## How to run ?
-Open "main.py" file on your text editor or IDLE(Python) and save it then run it as any other python program file.
-    
+Open "main.py" file on your text editor or IDLE(Python).
+Save it with `.py` extension.
 
-
- 
+Then simply run it as any other python file.
